@@ -1,6 +1,6 @@
-ICON_SETTINGS = "Impostazioni delle Icone";	
+ICON_SETTINGS = "Impostazioni delle icone";	
 ENABLED = "Abilitato";	
-SELECT_THEME = "Seleziona Tema...";	
-ICON_OPTIONS = "Opzioni delle Icone...";	
+SELECT_THEME = "Seleziona tema...";	
+ICON_OPTIONS = "Opzioni delle icone...";	
 FOLLOW_SPARK = "Segui @SparkDev_";	
 FOLLOW_DENNIS = "Segui @DennisBednarz";
